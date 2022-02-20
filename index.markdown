@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# My Home Page
+
+Made by Izham, powered by Jekyll
