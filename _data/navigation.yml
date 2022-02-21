@@ -1,0 +1,12 @@
+header:
+  - title: MyBlog
+    url: /pages/myblog
+
+  - title: Archive
+    url: /pages/archive
+
+  - title: About
+    url: /pages/about
+  
+  - title: Donate
+    url: /pages/donate
