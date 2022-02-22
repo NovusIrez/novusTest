@@ -189,17 +189,17 @@ exclude:
   - HOW_TO_RELEASE.md
   - Gemfile
   - Gemfile.lock
-  - LICENSE
+  # - LICENSE
   - README-*.md
   - README.md
   - gulpfile.js
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
+  # - /docs
   - /node_modules
-  - /screenshots
-  - /test
+  # - /screenshots
+  # - /test
   - /vendor
 
 defaults:
@@ -215,6 +215,16 @@ defaults:
       show_edit_on_github: false
       show_subscribe: false
       pageview: true
+  - scope:
+      path: "docs"
+    values:
+      layout: article
+      nav_key: docs
+      sidebar:
+        nav: docs
+      aside:
+        toc: true
+      show_date: false
 
 
 ## => Plugins

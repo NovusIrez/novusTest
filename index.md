@@ -16,3 +16,8 @@ article_header:
 
 ## NovusIrez site
 powered by Jekyll
+
+## My Social Media
+<i class="fas fa-download"></i>
+<a class="button button--success button--rounded button--lg" href="#"><i class="fas fa-download"></i> Download TeXt Theme</a>
+<i class="fa-brands fa-youtube"></i>
