@@ -18,6 +18,15 @@ article_header:
 powered by Jekyll
 
 ## My Social Media
-<i class="fas fa-download"></i>
-<a class="button button--success button--rounded button--lg" href="#"><i class="fas fa-download"></i> Download TeXt Theme</a>
-<i class="fa-brands fa-youtube"></i>
+<a href="https://github.com/NovusIrez" target="_blank">
+<span class="fa-stack fa-lg">
+  <i class="fa-brands fa-github fa-stack-3x"></i>
+</span>MyGithub</a><br>
+<a href="myLink" target="_blank">
+<span class="fa-stack fa-lg">
+  <i class="fa-brands fa-twitter fa-stack-3x"></i>
+</span>MyTwitter</a><br>
+<a href="myLink" target="_blank">
+<span class="fa-stack fa-lg">
+  <i class="fa-brands fa-deviantart fa-stack-3x"></i>
+</span>MyDeviantart</a><br>
