@@ -17,7 +17,11 @@ article_header:
 ## NovusIrez site
 powered by Jekyll
 
-## My Social Media
+<div class="card">
+  <div class="card__content">
+   <div class="card__header">
+    <b>My Social Media</b>
+    </div>
 <a href="https://github.com/NovusIrez" target="_blank">
 <span class="fa-stack fa-lg">
   <i class="fa-brands fa-github fa-stack-3x"></i>
@@ -30,3 +34,5 @@ powered by Jekyll
 <span class="fa-stack fa-lg">
   <i class="fa-brands fa-deviantart fa-stack-3x"></i>
 </span>MyDeviantart</a><br>
+</div>
+</div>
